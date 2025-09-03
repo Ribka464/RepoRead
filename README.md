@@ -8,7 +8,7 @@
 # Установка и использование
 1. Установка [Python](https://www.python.org/downloads/)
 2. Клонирование репозитория
-`git clone`
+`git clone https://github.com/Ribka464/RepoRead.git`
 3. Перейти в папку проекта
 ` cd  `
 4. Запустить
