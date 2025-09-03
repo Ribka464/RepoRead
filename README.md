@@ -6,7 +6,7 @@
 * Модуль Random
 
 # Установка и использование
-1. Установка [Python](python.org)
+1. Установка [Python](https://www.python.org/downloads/)
 2. Клонирование репозитория
 `git clone`
 3. Перейти в папку проекта
